@@ -1,3 +1,3 @@
 asdHello world!!!adsfg
 Good evening! (from branch master)
-Line from user 1
+Line from user 2
